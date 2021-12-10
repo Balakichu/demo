@@ -1,0 +1,198 @@
+<!doctype html>
+<html>
+<head>
+<title> Dhoni is my Celebrity </title>
+</head>
+<body>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<h1> Mahendra Singh Dhoni </h1>
+
+<p> <img src="d4.jpg" width="900" height="550" </p>
+<p> My favorite sports person  is MS Dhoni .
+ He is one of the most popular cricketer and one of the most successful
+ cricket captain in the world. Born in Jharkhand
+ he was passionate about sports and played shuttle badminton, football 
+and cricket during his childhood. He was a big fan of wicket keeper batsman
+ legendary Adam Gilcrist .Soon, he started impressing people around with 
+his wicket keeping styles and aggressive batting and made it into 
+junior and senior state team. His talent and consistency got him into
+ a place in the national team under the leadership of Rahul,
+ Dravid. M.S Dhoni soon became the permanent wicket keeper batsman 
+for India. He won many matches for India and was an excellent finisher </p>
+
+<h2> The Cool Master </h2>
+
+<p> Dhoni was commonly known as "Captain Cool" 
+for his calmness and patience on both on and off the field. 
+The veteran wicket-keeper batsman, who is considered as one 
+of the best captains of the Indian cricket team, has also proved
+ on a number of occasions that why he was called the "Captain Cool". </p>
+
+<h2> The Names of MS Dhoni </h2>
+
+	<ul>
+	  <li> Thala </li>
+	  <li> The Finisher </li>
+	  <li> Captain Cool </li>
+	</ul>
+
+<h3> <bold>Ticket collector</bold> <i>to</i> <bold>Trophy Collector</bold> </h3>
+<br>
+<br>
+<br>
+<p> <img src="d3.jpg" width="900" height="550" </p>
+<table>
+<tr>
+  <th> World cup t20 </th>  &nbsp&nbsp&nbsp&nbsp
+  <th> ICC Cricket World Cup</th>  &nbsp&nbsp&nbsp&nbsp
+  <th> ICC Champions Trophy </th>
+</tr>
+
+<tr>
+  <td> MSD </td> &nbsp&nbsp&nbsp&nbsp
+  <td> MSD </td> &nbsp&nbsp&nbsp&nbsp
+  <td> MSD </td>
+
+</body>
+
+</html>
+
+<!doctype html>
+<html>
+<head> </head>
+<body>
+
+<h3> History of DHONI </h3>
+
+<p> <img src="d7.jpg" width="900" height="550" </p>
+<br>
+<br>
+<p> Dhoni made his international debut in 2004.
+ His talent with the bat came to the fore in an innings 
+of 148 runs against Pakistan in his fifth international match.
+ Within a year he joined the India Test team, where he quickly
+ established himself with a century (100 or more runs in a single innings)
+ against Pakistan. Despite his inexperience, Dhoni took over the 
+captaincy of the one-day side in 2007 and led India to the
+ Twenty20 (T20) world title. Series wins over Australia and Sri Lanka, 
+among others, moved India to the top of the International
+ Cricket Council (ICC) Test rankings for the first time in December 2009.
+ Dhoni was honoured for his play with the ICC One Day.
+ International Player of the Year Award in 2008 and 2009. 
+In the 2011 one-day World Cup, Dhoni’s dashing innings
+ of 91 not out—in front of a home crowd in Mumbai—paved the way for 
+India’s victory over Sri Lanka in the final. He also led India to an 
+appearance in the semifinals of the 2015 Cricket World Cup. 
+Dhoni stopped serving as India’s captain in 2017, having led his 
+country in 331 international matches, the most for a captain in the
+sport’s history. The explosion of T20 cricket on the Indian subcontinent
+ paved the way for the formation of the Indian Premier League (IPL)
+ in 2008. In the league’s inaugural season, Dhoni signed with the 
+Chennai Super Kings for $1.5 million, which at the time was the largest 
+contract in the IPL. He subsequently led the team to two consecutive titles
+ (2010, 2011). The Super Kings franchise earned a two-season suspension
+ from the IRL in 2016 for its role in a match-fixing scandal, and Dhoni 
+then joined the Rising Pune Supergiant. In 2018 he returned to the Chennai 
+Super Kings,and that year the team won the IPL championship. </p>
+
+<p> Please click the link </p>
+
+
+<a href="https://www.youtube.com/watch?v=mne-PDTwbNk">
+About Dhoni in Tamil </a> 
+</p>
+
+<ul>
+  <li> <a href="#captaincy">Captaincy </a>  </li>
+  <li> <a href="#Wicketkeeping">Wicket Keeping </a>  </li>
+</ul>
+
+
+<br>
+
+
+<p> <a name="Captaincy"> MS Dhoni, who called time on his
+ international career on Saturday, left behind a rich
+ legacy in limited-overs cricket, both as a wicketkeeper-batsman
+ and one of the most successful captains. He finished his ODI career 
+with 10773 runs, including 10 centuries, at an average of 50.57.15. </a> <p> 
+
+
+<br>
+
+
+<p> <a name="Wicketkeeping"> Dhoni is India's most successful 
+wicket-keeper in terms of dismissal and holds the third spot 
+in the list of most dismissals in international cricket. ... Dhoni, 
+who has 829 dismissals to his name in 538 games is at the third spot.
+Dhoni is known for his quick reflexes and brilliant stumping skills. </a> </p>
+
+<br>
+<br>
+
+<h3> Question Time!!! </h3>
+<h5> <i>Write two favorite players of Dhoni</i> <h/>
+
+<form action="" method="">
+<label for="player1">Player 1:</label>
+<input type="text" id="player1" name=""> </br> </br>
+<label for="player2">Player 2:</label>
+<input type="text" id="player2" name="">
+
+<!-- Input elements go in here -->
+
+<h3> You can write something learned from MS Dhoni </h3>
+GO Ahead: </br>
+<textarea rows="10" cols="90"></textarea></br>
+<input type="submit" value="Submit"
+
+<br>
+<br>
+<br>
+
+<h4> Time for Quiz!! </h4>
+<p> Dhoni has won all the ICC Trophies </p>
+True:
+<input type="radio" name="trueorfalse" value=""> </br>
+False:
+<input type="radio" name="trueorfalse" value="">
+
+<p> How many matches has Dhoni lost as captain in the ODI World Cup? </p>
+2:
+<input type="radio" name="2or4" value=""> </br>
+4:
+<input type="radio" name="2or4" value="">
+
+<p> How many times has MS Dhoni remained not-out in a 
+successful chase in One Day Internationals? </p>
+23:
+<input type="radio" name="23or47" value=""> </br>
+47:
+<input type="radio" name="23or47" value="">
+
+<p> Who are all Dhoni's best friend? </p>
+<input type="checkbox" name=""> Suresh Raina <br>
+<input type="checkbox" name=""> Virat Kohli <br>
+<input type="checkbox" name=""> Yuvarj Singh <br>
+<input type="checkbox" name=""> Kedar Jadhav <br>
+
+<p> What is highest score of Dhoni in ODI? </p>
+<input type="number" min="0" max"183">
+
+<p> <img src="d8.jpg" width="900" height="550" </p>
+
+</form>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
